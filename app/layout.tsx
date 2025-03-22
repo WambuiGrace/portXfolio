@@ -8,9 +8,7 @@ import BadgeProvider from "@/components/badge-provider"
 const inter = Inter({ subsets: ["latin"] })
 
 export const metadata: Metadata = {
-  title: "Your Name - Portfolio",
-  description: "Creative Developer & Designer crafting engaging digital experiences",
-    generator: 'v0.dev'
+  title: "Grace Wambui - Portfolio",
 }
 
 export default function RootLayout({
