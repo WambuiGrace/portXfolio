@@ -4,21 +4,21 @@ A modern, interactive personal portfolio website built with Next.js and Tailwind
 Portfolio Website
 ![Portfolio](public/portfolio.png)
 
-## Pages
+### Pages
 
 - **Home** - Welcoming landing page with introduction
 - **About** - Personal information, journey timeline, and personality quiz
 - **Projects** - Gallery of work with filterable categories
 - **Contact** - Interactive contact form and connection options
 
-Installation
-Clone the repository:
+### Installation
+- Clone the repository:
 ```git clone https://github.com/WambuiGrace/portXfolio.git```
-Navigate to the project directory:
+- Navigate to the project directory:
 ```cd portXfolio```
-Install dependencies:
+- Install dependencies:
 ```pnpm install```
-Run the development server:
+- Run the development server:
 ```pnpm dev```
 
 ### Live Site
