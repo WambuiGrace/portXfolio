@@ -23,5 +23,5 @@ Portfolio Website
 
 ### Live Site
 
-Visit the live portfolio at: [https://portxfolio-lonvmoinb-wambuis-projects.vercel.app/]
+Visit the live portfolio at: [https://portxfolio-six.vercel.app/]
 
