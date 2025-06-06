@@ -11,7 +11,7 @@ export default function ContactPage() {
 
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-12 text-center">
-          <span className="bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">
+          <span className="bg-gradient-to-r from-primary to-teal-500 bg-clip-text text-transparent">
             Get In Touch
           </span>
         </h1>

@@ -48,7 +48,7 @@ export default function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex items-center justify-between h-16">
           <div className="flex items-center">
-            <Link href="/" className="font-bold text-xl">
+            <Link href="/" className="font-bold text-2xl">
               Grace Wambui
             </Link>
           </div>
@@ -59,7 +59,7 @@ export default function Navbar() {
               <Link
                 key={link.href}
                 href={link.href}
-                className={`transition-colors hover:text-primary ${
+                className={`text-lg transition-colors hover:text-primary ${
                   pathname === link.href ? "text-primary font-medium" : ""
                 }`}
               >
@@ -138,8 +138,8 @@ export default function Navbar() {
               <SheetContent side="right">
                 <div className="flex flex-col h-full">
                   <div className="flex items-center justify-between mb-6">
-                    <Link href="/" className="font-bold text-xl">
-                      YourName
+                    <Link href="/" className="font-bold text-2xl">
+                      Grace Wambui
                     </Link>
                     <SheetClose asChild>
                       <Button variant="ghost" size="icon">
@@ -152,7 +152,7 @@ export default function Navbar() {
                       <SheetClose asChild key={link.href}>
                         <Link
                           href={link.href}
-                          className={`text-lg transition-colors hover:text-primary ${
+                          className={`text-xl transition-colors hover:text-primary ${
                             pathname === link.href ? "text-primary font-medium" : ""
                           }`}
                         >

@@ -11,7 +11,7 @@ export default function AboutPage() {
 
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-12 text-center">
-          <span className="bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">About Me</span>
+          <span className="bg-gradient-to-r from-primary to-teal-500 bg-clip-text text-transparent">About Me</span>
         </h1>
 
         <div className="grid grid-cols-1 lg:grid-cols-3 gap-8 mb-16">

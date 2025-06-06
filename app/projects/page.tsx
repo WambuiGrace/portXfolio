@@ -8,7 +8,7 @@ const projects = [
     id: 1,
     title: "Orbital oracle",
     description:
-      "3D visualization that simulates the movement of satellites, asteroids, and debris in Earth’s orbit. This tool shows the potential for collisions and provides an interactive way to explore how objects behave in space.",
+      "3D visualization that simulates the movement of satellites, asteroids, and debris in Earth's orbit. This tool shows the potential for collisions and provides an interactive way to explore how objects behave in space.",
     image: "/oracle.png?height=600&width=800",
     tags: ["Next.js", "TypeScript", "Canva", "Tailwind CSS"],
     demoUrl: "https://example.com/demo",
@@ -77,7 +77,7 @@ export default function ProjectsPage() {
 
       <div className="max-w-7xl mx-auto">
         <h1 className="text-4xl md:text-5xl font-bold mb-12 text-center">
-          <span className="bg-gradient-to-r from-primary to-purple-600 bg-clip-text text-transparent">My Projects</span>
+          <span className="bg-gradient-to-r from-primary to-teal-500 bg-clip-text text-transparent">My Projects</span>
         </h1>
 
         <Tabs defaultValue="all" className="mb-12">
