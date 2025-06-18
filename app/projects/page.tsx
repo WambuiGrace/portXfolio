@@ -46,7 +46,7 @@ const projects = [
     tags: ["JavaScript", "Chart.js", "Weather API", "Responsive Design"],
     demoUrl: "https://example.com/demo",
     githubUrl: "https://github.com/WambuiGrace/JS-Projects/tree/main/weather-app",
-    category: "web",
+    category: "design",
   },
   {
     id: 5,
@@ -56,7 +56,7 @@ const projects = [
     tags: ["React Native", "Expo", "Redux", "Firebase"],
     demoUrl: "https://example.com/demo",
     githubUrl: "https://github.com/WambuiGrace/",
-    category: "mobile",
+    category: "design",
   },
   {
     id: 6,
