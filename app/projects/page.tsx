@@ -17,13 +17,13 @@ const projects = [
   },
   {
     id: 2,
-    title: "Task Management ",
+    title: "Dust Collector",
     description:
-      "A React-based task management application with drag-and-drop functionality, user authentication, and real-time updates.",
+      "Dust refers to tiny amounts of cryptocurrency that are too small to be transacted due to network fees exceeding their value. This tool helps you reclaim value from these otherwise unusable assets by batching them together and moving them to Base's low-fee environment.",
     image: "/task.jpg?height=600&width=800",
     tags: ["React", "Firebase", "React DnD", "CSS Modules"],
-    demoUrl: "https://example.com/demo",
-    githubUrl: "https://github.com/WambuiGrace/JS-Projects/tree/main/to-do-app",
+    demoUrl: "https://collector-one.vercel.app/",
+    githubUrl: "https://github.com/WambuiGrace/collector",
     category: "web",
   },
   {
@@ -33,7 +33,7 @@ const projects = [
       "A dynamic portfolio website built with Next.js, featuring interactive animations and a custom content management system.",
     image: "/portfolio.png?height=600&width=800",
     tags: ["Next.js", "Framer Motion", "Tailwind CSS", "Contentful"],
-    demoUrl: "https://example.com/demo",
+    demoUrl: "https://portxfolio-six.vercel.app/",
     githubUrl: "https://github.com/WambuiGrace/",
     category: "web",
   },
