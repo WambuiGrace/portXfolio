@@ -21,7 +21,7 @@ const projects = [
     description:
       "Dust refers to tiny amounts of cryptocurrency that are too small to be transacted due to network fees exceeding their value. This tool helps you reclaim value from these otherwise unusable assets by batching them together and moving them to Base's low-fee environment.",
     image: "/task.jpg?height=600&width=800",
-    tags: ["React", "Firebase", "React DnD", "CSS Modules"],
+    tags: ["Next JS", "tailwind CSS", "CSS Modules"],
     demoUrl: "https://collector-one.vercel.app/",
     githubUrl: "https://github.com/WambuiGrace/collector",
     category: "web",
