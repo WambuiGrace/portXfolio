@@ -36,9 +36,7 @@ export default function HomePage() {
           </div>
         </div>
 
-        <div className="absolute bottom-10 left-1/2 transform -translate-x-1/2 animate-bounce">
-          <ArrowDown size={32} className="text-primary" />
-        </div>
+
       </section>
 
       {/* Chat bot floating button */}
